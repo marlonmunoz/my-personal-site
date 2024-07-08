@@ -1,6 +1,9 @@
+* {
+    box-sizing: border-box;
+}
 body {
-    background: blue;
+    background-color: rgb(15 23 42);
     color: white;
-    text-align: center;
-    text-decoration: underline;
+    text-align: left;
+    
 }
